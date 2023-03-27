@@ -1,0 +1,80 @@
+header {
+  
+  background-color: #0a1429;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: Black;
+  background-image: url("wallpaperflare.com_wallpaper (13).jpg");
+}
+h1 {
+  color: White;
+  text-emphasis-color: dimgray;
+  text-align: center;
+  font-color: #25282a;
+}
+p {
+  font-family: Times new Roman;
+  font-size: 16px;
+}
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
+footer {
+  background-color: #0a1429;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  height: 45px;
+}
+nav ul {
+  list-style-type: somali;
+  padding: 20;
+}
+
+article {
+  float: left;
+  padding: 8px;
+  padding-left: 20px;
+  width: 95%;
+  background-color: #d6e0f5;
+  height: 200px; /* only for demonstration, should be removed */
+  color: Black;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 110%;
+
+}
+
+td, th {
+  border: 5px none;
+  text-align: center;
+  padding: 6px;
+  padding-left: 50px;
+  padding-top: 06px;
+  padding-bottom: 10px ;
+
+}
+
+tr:nth-child(even) {
+  background-color: ;
+}
+
+.header-buttons {
+  position: relative;
+}
+
+.header-buttons button {
+  position: absolute;
+  top: 0px;
+  right: 5px;
+}
